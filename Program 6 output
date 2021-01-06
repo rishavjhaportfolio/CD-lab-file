@@ -1,0 +1,24 @@
+enter total no. of productions: 6                                                                             
+
+enter the LHS of production: E                                                    
+enter the RHS of production: E+T                                                  
+                                                                                
+enter the LHS of production: T                                                                                                                   
+enter the RHS of production: T*F                                                  
+                                                                                
+enter the LHS of production: T                                                            
+enter the RHS of production: F                                                    
+                                                                                
+enter the LHS of production: E                                                    
+enter the RHS of production: T                                                    
+                                                                                
+enter the LHS of production: F                                                                             
+enter the RHS of production: (E)                                                  
+                                                                                
+enter the LHS of production :F                                                    
+enter the RHS of production: id                                                   
+                                                                                
+the Leading(A) is :                                                             
+{  +  *  (  id  }                                                               
+the Trailing(A) is :                                                            
+{  +  *  )  id  }   
